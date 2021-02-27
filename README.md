@@ -6,8 +6,8 @@ Aquí iré subiendo el nefasto temario de CIDEAD (Centro para la Innovación y D
 
 <p>Base de datos</p>
 <p>Programación</p>
-Lenguajes de marcas
-Entornos de desarrollo
-Sistemas informáticos
-FOL (convalidé no tengo nada).
+<p>Lenguajes de marcas</p>
+<p>Entornos de desarrollo</p>
+<p>Sistemas informáticos</p>
+<p>FOL (convalidé no tengo nada).</p>
 
