@@ -1,6 +1,6 @@
 # DAW_CIDEAD_2021
 
-Aquí iré subiendo el nefasto temario de CIDEAD (Centro para la Innovación y Desarrollo de la Educación a Distancia). Si tienes otra oportunidad, elige esa, porque entrar aquí es sufrir.
+<strong>>Aquí iré subiendo el nefasto temario de DAW (Desarrollo aplicaciones web) del CIDEAD (Centro para la Innovación y Desarrollo de la Educación a Distancia). Si tienes otra oportunidad, elige esa, porque entrar aquí es sufrir.</strong>
 
 <h2>1º año</h2>
 
