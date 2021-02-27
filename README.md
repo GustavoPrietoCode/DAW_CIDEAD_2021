@@ -2,10 +2,10 @@
 
 Aquí iré subiendo el nefasto temario de CIDEAD (Centro para la Innovación y Desarrollo de la Educación a Distancia). Si tienes otra oportunidad, elige esa, porque entrar aquí es sufrir.
 
-1º año
+<h2>1º año</h2>
 
-Base de datos
-Programación
+<p>Base de datos</p>
+<p>Programación</p>
 Lenguajes de marcas
 Entornos de desarrollo
 Sistemas informáticos
